@@ -4,4 +4,4 @@
 *.swp
 tags
 library_management/docs/current
-__init.py__
+library_management/__init.py__
