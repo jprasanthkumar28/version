@@ -19,6 +19,7 @@ doctype_js = {
 	# "Employee Deduction" : "library_management/doctype/employee_deduction/employee_deduction.js"
 }
 
+
 doctype_tree_js = {"Supplier" : "library_management/doctype/supplier/supplier_tree.js"}
 
 fixtures = ["Server Script",
